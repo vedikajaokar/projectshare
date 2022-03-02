@@ -1,0 +1,7 @@
+0 mobile
+1 Mask
+2 Snacks
+3 Laptop
+4 Money
+5 Book
+6 Mobile
